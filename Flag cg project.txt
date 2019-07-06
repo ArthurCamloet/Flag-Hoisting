@@ -144,6 +144,10 @@ void startdisplay(void)
 	
 	output(-0.9,0.05,"1JB16CS178");
 	
+	output(-0.6,0.15, "SURYANSH SINGH");
+	
+	output(-0.6,0.05, "1JB16CS168");
+	
 	output(-0.23,-0.1,"UNDER THE GUIDANCE OF:");
 
 	output(-0.9,-0.25,"Mrs.BINDIYA M K");
